@@ -1,0 +1,7 @@
+So we create the server and inside it we will have the three routes inside it
+
+"/" normal root route
+
+"/hello"- the hello
+
+"/form"
